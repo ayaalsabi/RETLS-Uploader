@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "RETLS Uploader",
+    "slug": "file-share-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/Logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./src/assets/Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.senadnaser.fileshareapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/Logo.png",
+        "backgroundColor": "#ffffff",
+        "backgroundImage": "./src/assets/Logo.png"
+      },
+      "googleServicesFile": "./google-services.json",
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.senadnaser.fileshareapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "112b3f3b-feee-4712-99a8-e4293b0a6e1c"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

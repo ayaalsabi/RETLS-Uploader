@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236410707017",
+    "project_id": "retls-uploader",
+    "storage_bucket": "retls-uploader.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236410707017:android:b0ecf162243ad1d914f398",
+        "android_client_info": {
+          "package_name": "com.senadnaser.fileshareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl9Sx6k5TT1qGVPhKaU-aRjmYzGOcvdHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
